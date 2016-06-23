@@ -2,6 +2,9 @@
 
 A simple winston transport for kafka. You can easily write log msg to kafka cluster via winston and wiston-k.
 
+# install
+npm install winston-k
+
 # usage
 ## winston-k(options)
 *  options.zk - kafka zookeeper connectString
