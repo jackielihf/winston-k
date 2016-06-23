@@ -1,0 +1,20 @@
+{
+  "name": "winston-k",
+  "version": "0.1.0",
+  "description": "winston kafka transport, kafka logger for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "winston",
+    "kafka",
+    "logger"
+  ],
+  "author": "jackielihf",
+  "license": "MIT",
+  "dependencies": {
+    "kafka-node": "^0.3.3",
+    "winston": "^2.2.0"
+  }
+}
