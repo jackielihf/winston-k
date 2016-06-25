@@ -1,7 +1,8 @@
 {
   "name": "winston-k",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "winston kafka transport, kafka logger for node.js",
+  "homepage": "https://github.com/jackielihf/winston-k",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
