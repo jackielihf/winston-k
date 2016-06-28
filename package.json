@@ -1,11 +1,15 @@
 {
   "name": "winston-k",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "winston kafka transport, kafka logger for node.js",
   "homepage": "https://github.com/jackielihf/winston-k",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackielihf/winston-k.git"
   },
   "keywords": [
     "winston",
